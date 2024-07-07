@@ -1,0 +1,13 @@
+.page2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.reset{
+    background-color: red;
+    width: 130px;
+    height: 40px;
+}
+.qrcode{
+   border: black;}
